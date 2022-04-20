@@ -13,9 +13,9 @@ git clone https://github.com/adivaste/Directory-Map.git
 * Execute the **"setup.sh"** file using commands ```./setup.sh``` or ```bash setup.sh``` ( Enter your root password, if asked. )
 * ```bash
 chmod +x setup.sh
-``` 
-  and 
- * ```bash 
- bash setup.sh
- ```
+```
+and
+```bash 
+bash setup.sh
+```
 
