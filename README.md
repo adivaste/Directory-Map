@@ -10,13 +10,8 @@ git clone https://github.com/adivaste/Directory-Map.git
 ```
 * Folder naming **"Directory-Map"** is now created at the current path in your local storage
 * Enter inside that folder using the command ```cd Directory-Map```
-* Execute the **"setup.sh"** file using commands ```./setup.sh``` or ```bash setup.sh``` ( Enter your root password, if asked. )
-
+* Giving the permission to execute it.
 ```bash
 chmod +x setup.sh
 ```
-  and
-```bash 
-bash setup.sh
-```
-
+ * Execute the **"setup.sh"** file using commands ```./setup.sh``` or ```bash setup.sh``` ( Enter your root password, if asked.)
