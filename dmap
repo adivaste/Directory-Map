@@ -1,1 +1,1 @@
-sudo python /usr/bin/listDir.py
+python /usr/bin/listDir.py
