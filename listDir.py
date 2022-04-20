@@ -35,10 +35,3 @@ printDirs(path,tabs)
 print("\n________________________________________________________________________________________")
 mapFile.write("\n________________________________________________________________________________________")
 mapFile.close()
-
-# Identifying the file and folder
-
-# --- Files
-#	1) Having a only one "." in whole filename and that is not at "0" index
-#	2) Having a two "." in filename, one at only "0"th index and another at any other index
-
