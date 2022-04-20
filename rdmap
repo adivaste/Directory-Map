@@ -1,1 +1,1 @@
-sudo rm /usr/bin/listDir.py /usr/bin/dmap
+sudo rm /usr/bin/listDir.py /usr/bin/dmap /usr/bin/rdmap
