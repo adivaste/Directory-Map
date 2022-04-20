@@ -12,8 +12,10 @@ git clone https://github.com/adivaste/Directory-Map.git
 * Enter inside that folder using the command ```cd Directory-Map```
 * Execute the **"setup.sh"** file using commands ```./setup.sh``` or ```bash setup.sh``` ( Enter your root password, if asked. )
 * ```bash
-chmod +x setup.sh ``` 
+chmod +x setup.sh
+``` 
   and 
  * ```bash 
- bash setup.sh```
+ bash setup.sh
+ ```
 
