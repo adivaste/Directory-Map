@@ -15,7 +15,7 @@ git clone https://github.com/adivaste/Directory-Map.git
 ```bash
 chmod +x setup.sh
 ```
-and
+  and
 ```bash 
 bash setup.sh
 ```
