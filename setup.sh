@@ -1,5 +1,6 @@
-user=$(whoami)
-if [[ user = "root" ]]
+#!/bin/sh
+
+if [[ $(whoami) = root ]]
 then
 	mv listDir.py dmap rdmap /usr/bin/
 else
