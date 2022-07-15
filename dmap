@@ -1,1 +1,1 @@
-python /usr/bin/listDir.py
+python3 /usr/bin/listDir.py
